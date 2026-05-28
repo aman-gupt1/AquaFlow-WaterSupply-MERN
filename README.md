@@ -4,6 +4,13 @@ AquaFlow is a full-stack MERN web application for online water supply and delive
 
 ---
 
+## 🎯 Purpose
+
+This project was developed for self-improvement and to gain practical understanding of backend development concepts in a Water Supply Management System.
+It helped improve knowledge of server-side logic, API handling, database operations, and real-world backend workflows.
+
+---
+
 # Features
 
 ## User Features
